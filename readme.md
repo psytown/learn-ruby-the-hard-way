@@ -4,6 +4,6 @@
 
 更多敬请参考：
 
-<http://www.yangzhiping.com/tech/beijing-ruby-learn.html>
-<http://www.yangzhiping.com/tech/why-ruby-text.html>
-<http://ruby.learncodethehardway.org/book/>
+* <http://www.yangzhiping.com/tech/beijing-ruby-learn.html>
+* <http://www.yangzhiping.com/tech/why-ruby-text.html>
+* <http://ruby.learncodethehardway.org/book/>
