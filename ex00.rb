@@ -15,14 +15,22 @@ p "hello,world\n"
 p 'hello,world'
 p 'hello,world\n'
 
-##Authoer,Zhangxi
+# Authoer:Zhangxi
+# title:Learn the ruby the hard way
 
+print "hello,world"
+print "hello,world\n"
+print 'hello,world'
+print 'hello,world\n'
+puts "hello,world"
+puts "hello,world\n"
+puts 'hello,world'
+puts 'hello,world\n'
+p "hello,world"
+p "hello,world\n"
+p 'hello,world'
+p 'hello,world\n'
 
-puts "Hello World!"
-puts "Hello Again"
-puts "I like typing this."
-puts "This is fun."
-puts 'Yay! Printing.'
-puts "I'd much rather you 'not'."
-puts 'I "said" do not touch this.'
+# print puts p的区别
+
 
