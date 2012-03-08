@@ -38,3 +38,40 @@ w="This is the left side of..."
 e="a string with a right side."
 
 puts w+e
+
+
+
+
+# Author:Zhangxi
+# Title:Learn ruby the hard way
+
+#对x这个变量进行赋值 
+x = "There are #{10} types of people."
+#对binary这个变量进行赋值
+binary = "binary"
+#对do_not这个变量进行赋值
+do_not = "don't"
+#对y这个变量进行赋值
+y = "Those who know #{binary} and those who #{do_not}."
+
+#输出x和y
+puts x
+puts y
+
+#输出含有x、y变量的字符串
+puts "I said: #{x}."
+puts "I also said: '#{y}'."
+
+#对hilarious赋值为false
+hilarious = false
+#对joke_evaluation变量赋值为含有变量hirlariou的字符串
+joke_evaluation = "Isn't that joke so funny?!#{hilarious}"
+
+#输出joke_evaluation
+puts joke_evaluation
+
+#对w e变量分别赋值
+w = "This is the left side of..."
+e = "a string with a right side."
+#输出含有w和e所赋值字符串的语句
+puts w + e
