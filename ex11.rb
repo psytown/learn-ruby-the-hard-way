@@ -22,3 +22,17 @@ weight=gets.chomp()
 
 puts "So,you're #{age} old, #{height} tall and #{weight} heavy."
 
+# Author:Zhangxi
+# Title:Learn ruby the hard way
+
+print "How old are you?"
+age = gets.chomp()
+print "How tall are you?"
+height = gets.chomp()
+print "How much do you weigh?"
+weight = gets.chomp()
+
+puts "so,you're #{age} old, #{height} tall and#{weight} heavy"
+
+#直接在终端里文件所在的目录中运行该文件 ruby ex11.rb
+#这是一种用户和计算机的互动
