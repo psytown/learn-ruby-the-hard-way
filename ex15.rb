@@ -11,10 +11,11 @@ filename=ARGV.first
 prompt=">"
 
 # 获取用户输入的文件名，然后输出它的内容
-txt=File.open(filename)
+
+target=File.open(filename)
 
 puts "Here's your file:#{filename}"
-puts txt.read()
+puts target.read()
 
 puts "Type the filename again:"
 
@@ -35,3 +36,22 @@ file_three=STDIN.gets.chomp()
 puts File.read(file_three)
 
 
+
+
+#Author:Zhangxi
+#Title:Learn ruby the hard way
+
+filename = ARGV.first
+prompt=">"
+txt = File.open(filename)
+
+puts "Here's your file:#{filename}"
+puts txt.read()
+
+puts "Type the filename again:"
+print prompt
+file_again = STDIN.gets.chomp()
+
+txt_again = File.open(file_again)
+
+puts txt_again.read()
