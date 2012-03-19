@@ -38,5 +38,6 @@ p 'hello,world\n'
 #           b)p会分辨字符串和数字，并输出字符串或数字，而puts和print会统一将引号内的部分进行输出
 #           c)在网上查有同学说p的返回值和puts、print的返回值不同，后两者只返回nil，p则返回其后所跟的字符串或数字内容
 
-
+print '\\\hello'
+print '\'heool\''
 
