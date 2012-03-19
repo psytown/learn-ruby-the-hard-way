@@ -5,6 +5,7 @@
 
 #Author:Zhangxi
 #Title:Learn ruby the hard way
+
 #定义chees_and_crackers这个方法，意思是当使用这个方法时，会出现以下输出的内容
 #方法的格式是 方法名+想要在方法中进行的动作
 def cheese_and_crackers(cheese_count, boxes_of_crackers)

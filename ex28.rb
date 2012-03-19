@@ -2,3 +2,8 @@
 # author:ouyangzhiping
 # title:learn the ruby the hard way
 # website:https://github.com/ouyangzhiping/learn-ruby-the-hard-way
+
+
+
+#Author:Zhangxi
+#Title:Learn ruby the hard way

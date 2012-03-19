@@ -9,7 +9,7 @@
 
 
 # This function will break up words for us.
-def break_words(words)
+def break_words(stuff)
     words = stuff.split(' ')
     return words
 end

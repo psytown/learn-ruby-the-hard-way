@@ -5,6 +5,8 @@
 
 #Author:Zhangxi
 #Title:Learn ruby the hard way
+
+
 #输出文字，其中有\在双引号中的作用
 puts "Let's practice everything."
 puts "You\'d need to know \'bout escapes with \\ that do \n newlines and \t tabs."

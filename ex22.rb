@@ -3,6 +3,9 @@
 # title:learn the ruby the hard way
 # website:https://github.com/ouyangzhiping/learn-ruby-the-hard-way
 
+#Author:Zhangxi
+#Title:Learn ruby the hard way
+
 
 0：
 0.1）、在ex00.rb中主要涉及了对puts print p的认识、对"" ''的区别的比较
